@@ -11,7 +11,7 @@ body {
   font-size: 22px;
   margin: 0;
   padding: 0;
-  font-weight: 200;
+  font-weight: 300;
   -webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
@@ -64,7 +64,7 @@ a:active {
   background-position: cover;
   background-repeat: no-repeat;
   background-size: 100% auto;
-  border-top: 4px solid #e91e63;
+  border-top: 4px solid 	#66CDAA;
   color: #FFFFFF;
   display: flex;
   flex-direction: column;
@@ -116,6 +116,8 @@ a:active {
  */
 
 .skills {
-  background: #e91e63;
-  color: white;
+  font-size: 0.7em;
+  font-weight: 100;
+  background: 	#66CDAA;
+  color:white ;
 }
